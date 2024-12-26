@@ -24,5 +24,6 @@ return <div></div>
     lessons:[{title:'hi'}, {title:'hi'}],
 }*/
 //const [l1,l2]=props.lessons
+//changes for commit
 //const [ ,l2]=props.lessons const [,,l2]=props.lessons const [l1,...restLessons]=props.lessons
 const[message, setMessage] = React.useState<string>('') //деструктуризация
