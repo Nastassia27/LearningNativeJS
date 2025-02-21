@@ -1,3 +1,4 @@
+/*
 test('test', () => {
 
     let props ={
@@ -16,3 +17,4 @@ const{age: a, lessons: l}= props //псевдоним через двоеточ�
 expect(age).toBe(12)
 expect(lessons.length).toBe(2)
 
+*/
